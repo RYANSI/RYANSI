@@ -41,8 +41,6 @@
 <a href="https://instagram.com/AyanSi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="1hanzla100" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1hanzla100&show_icons=true&locale=en&layout=compact" alt="1hanzla100" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyanSi&show_icons=true&locale=en&layout=compact" alt="1hanzla100" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyanSi&show_icons=true&locale=en" alt="1hanzla100" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1hanzla100&show_icons=true&locale=en" alt="1hanzla100" /></p>
