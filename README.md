@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [https;//AyanSi.now.sh](https://AyanSi.now.sh)
+- 👨‍💻 All of my projects are available at [https;//AyanSi.now.com](https://AyanSi.now.sh)
 
 - 💬 Ask me about **Django, Flutter, Flask, Reactjs, NodeJS**
 
