@@ -34,10 +34,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/AyanSi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="1hanzla100" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/AyanSi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hanzla" height="30" width="40" /></a>
-<a href="https://web.facebook.com/AyanSi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hanzla tauqeer" height="30" width="40" /></a>
-<a href="https://instagram.com/AyanSi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="1hanzla100" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="1hanzla100" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hanzla" height="30" width="40" /></a>
+<a href="https://web.facebook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hanzla tauqeer" height="30" width="40" /></a>
+<a href="https://instagram.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="1hanzla100" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1hanzla100&show_icons=true&locale=en&layout=compact" alt="1hanzla100" /></p>
