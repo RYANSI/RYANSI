@@ -18,13 +18,13 @@
 <h3 align="center">A passionate Full Stack Web Developer and Mobile App Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python(learning) / Djanago(learning) / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyanSi&label=Profile%20views&color=0e75b6&style=flat" alt="AyanSi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aaron&label=Profile%20views&color=0e75b6&style=flat" alt="Aaron" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyanSi" alt="AyanSi" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https;//AyanSi.now.com](https://AyanSi.now.sh)
+- 👨‍💻 All of my projects are available at [https;//Aaron.now.com](https://Aaron.now.sh)
 
 - 💬 Ask me about **Django, Flutter, Flask, Reactjs, NodeJS**
 
